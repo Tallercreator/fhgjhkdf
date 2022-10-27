@@ -1,6 +1,7 @@
 @font-face {
     font-family: 'Fantasque Sans Mono';
-    src: local('Fantasque Sans Mono Regular'), local('FantasqueSansMono-Regular');
+    src: url('https://github.com/Tallercreator/Tallercreator.github.io/blob/main/font/Fantasquesansmonoregular.ttf')
+    format('ttf');
     font-weight: 400;
     font-style: normal;
 }
