@@ -228,7 +228,6 @@ p {
 .Plashki2 {
     align-items: center;
     margin-top: 110px;
-    padding: 20px;
     display: flex;
     gap: 120px;
 }
@@ -289,7 +288,7 @@ p {
     margin-top: 80px;
 }
 .smile3{
-    margin-top: 190%;
+    margin-top: 140%;
     display: flex;
     margin-left: -32px;
 }
