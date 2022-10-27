@@ -7,13 +7,13 @@
 }
 @font-face {
     font-family: 'Fantasque Sans Mono';
-    src: local('Fantasque Sans Mono Italic'), local('FantasqueSansMono-Italic');
+    src: url('https://github.com/Tallercreator/Tallercreator.github.io/blob/main/font/Fantasquesansmonobold.ttf') format('ttf');
     font-weight: 400;
     font-style: italic;
 }
 @font-face {
     font-family: 'Fantasque Sans Mono';
-    src: local('Fantasque Sans Mono Bold'), local('FantasqueSansMono-Bold');
+    src: local('Fantasque Sans Mono Bold Italic'), local('FantasqueSansMono-BoldItalic');
     font-weight: 700;
     font-style: normal;
 }
