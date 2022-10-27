@@ -1,25 +1,25 @@
 @font-face {
     font-family: 'Fantasque Sans Mono';
-    src: url('/font/Fantasquesansmonoregular.woff2')
-    format('woff2');
+    src: url('/font/Fantasquesansmonoregular.woff')
+    format('woff');
     font-weight: 400;
     font-style: normal;
 }
 @font-face {
     font-family: 'Fantasque Sans Mono';
-    src: url('font/Fantasquesansmonobolditalic.woff2') format('woff2');
+    src: url('font/Fantasquesansmonobolditalic.woff') format('woff');
     font-weight: 400;
     font-style: italic;
 }
 @font-face {
     font-family: 'Fantasque Sans Mono';
-    src: url('/font/Fantasquesansmonobold.ttf') format('woff2');
+    src: url('/font/Fantasquesansmonobold.woff') format('woff');
     font-weight: 700;
     font-style: normal;
 }
 @font-face {
     font-family: 'Fantasque Sans Mono';
-    src: url('/font/Fantasquesansmonobolditalic.woff2') format('woff2');
+    src: url('/font/Fantasquesansmonobolditalic.woff') format('woff');
     font-weight: 700;
     font-style: italic;
 }
