@@ -269,7 +269,7 @@ p {
     margin: 0;
 }
 .nach {
-    padding: 20px;
+   
     display: flex;
 }
 .bol{
@@ -303,7 +303,6 @@ p {
     background-color: #A81AFF;
     border-radius: 32px;
     border: 2px solid black;
-    margin-left: 20px;
 }
 .biga {
     margin-top: 60px;
@@ -328,14 +327,12 @@ p {
     background-color: #31CA3E;
     border-radius: 32px;
     border: 2px solid black;
-    margin-left: 20px;
 }
 .ym{
     padding: 80px 80px;
 }
 .Ftitle {
     font-size: 80px;
-    margin-left: 20px;
     margin-top: 80px;
     font-family: Fantasque Sans Mono;
     font-weight: bold;
@@ -344,13 +341,13 @@ p {
 .glyph {
     margin-left: -20px;
     font-weight: normal;
-    margin-top: -5px;
+    mmargin-top: 0;
+    margin-bottom: 5px;
     font-size: 23px;
     line-height: 130%;
 }
 .allrect{
     display: flex;
-    margin-left: 20px;
     gap: 10px;
 }
 .rectY{
@@ -396,7 +393,6 @@ p {
 .allrect2{
     margin-top: 20px;
     display: flex;
-    margin-left: 20px;
     gap: 10px;
 }
 .smile5{
