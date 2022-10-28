@@ -486,17 +486,17 @@ footer {
     vertical-align: baseline;
 }
 .left {
-    color: #757575;
+    color: #A6A6A6;
     text-align: left;
 }
 .middle {
-    color: #757575;
+    color: #A6A6A6;
     text-align: center;
 }
 .right {
-    color: #757575;
+    color: #A6A6A6;
     text-align: right;
 }
 a {
-    text-decoration: none;
+    color: #A6A6A6;
 }
