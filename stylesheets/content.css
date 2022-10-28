@@ -144,8 +144,9 @@ p {
     display: flex;
 }
 .phone {
+    padding-right: 60px;
     margin-left: 5%;
-    margin-top: 200px;
+    margin-top: 180px;
 }
 .smile1{
     margin-top: 75%;
