@@ -84,7 +84,7 @@ body{
 }
 .line1{
     border-left: 2px solid black;
-    height: 7300px;
+    height: 7200px;
     left: 75%;
     top: 0;
 }
@@ -475,7 +475,7 @@ p {
 footer {
     margin-left: -120px;
     background-color: #262626;
-    height: 130px;
+    height: 90px;
     align-content: flex-end;
 }
 .textfoot{
