@@ -497,6 +497,9 @@ footer {
     color: #A6A6A6;
     text-align: right;
 }
-a {
-    color: #A6A6A6;
+a:visited {
+    color: #cecece; 
+}
+a:active {
+    color: #ffff00; 
 }
